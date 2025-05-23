@@ -1,0 +1,26 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+#header1{
+    text-transform: capitalize;
+}
+
+.container{
+    block-size: 2px;
+    border-color: blue;
+    border-style: groove;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+
+}
+
+.toDoListBtn{
+    padding: 5px;
+    font-weight: bold;
+    width: 100px;
+    font-style: oblique;
+    
+}
